@@ -1,0 +1,5 @@
+C:/Users/23576/CLionProjects/WordGameGUI/cmake-build-debug/CMakeFiles/WordGameGUI.dir
+C:/Users/23576/CLionProjects/WordGameGUI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/23576/CLionProjects/WordGameGUI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/23576/CLionProjects/WordGameGUI/cmake-build-debug/CMakeFiles/WordGameGUI_autogen_timestamp_deps.dir
+C:/Users/23576/CLionProjects/WordGameGUI/cmake-build-debug/CMakeFiles/WordGameGUI_autogen.dir
